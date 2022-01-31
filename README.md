@@ -19,3 +19,11 @@ I very occasionally think and then dissociate until code appears
 
 - Pronouns -> he/him
 - Reach me -> @Inferno#5457 (517699048489091083)
+
+# **The truths of life**
+
+- The cake is a lie
+- 42
+- Cats > Dogs
+- Streams > Acc
+- CatBot best discord bot
