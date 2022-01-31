@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyo 👋
 
 <!--
 **Inferno-idk-what-to-do/Inferno-idk-what-to-do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
