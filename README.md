@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I very occasionally think and then dissociate until code appears
+
+Pronouns -> he/him
+Reach me -> @Inferno#5457 (517699048489091083)
