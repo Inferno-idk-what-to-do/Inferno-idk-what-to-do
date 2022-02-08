@@ -28,4 +28,4 @@ I very occasionally think and then dissociate until code appears
 - Streams > Acc
 - CatBot best discord bot
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Inferno_idk_what_to_do&show_icons=true&theme=tokyonight)](https://github.com/Inferno_idk_what_to_do)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Inferno-idk-what-to-do&show_icons=true&theme=tokyonight)](https://github.com/Inferno-idk-what-to-do)
