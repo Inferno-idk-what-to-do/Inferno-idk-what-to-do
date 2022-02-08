@@ -1,4 +1,4 @@
-### Heyo 👋
+# Heyo 👋
 
 <!--
 **Inferno-idk-what-to-do/Inferno-idk-what-to-do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,14 +18,15 @@ Here are some ideas to get you started:
 I very occasionally think and then dissociate until code appears
 
 - Pronouns -> he/him
-- Reach me -> @Inferno#5457 (517699048489091083)
+- Reach me -> @Inferno#5457 (id 517699048489091083)
 
-# **The truths of life**
+### **The truths of life**
 
 - The cake is a lie
 - 42
 - Cats > Dogs
 - Streams > Acc
 - CatBot best discord bot
+
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Inferno-idk-what-to-do&show_icons=true&theme=cobalt)](https://github.com/Inferno-idk-what-to-do)
