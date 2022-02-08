@@ -29,4 +29,4 @@ I very occasionally think and then dissociate until code appears
 - CatBot best discord bot
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Inferno-idk-what-to-do&show_icons=true&theme=cobalt)](https://github.com/Inferno-idk-what-to-do)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Inferno-idk-what-to-do&show_icons=true&title_color=fff&text_color=fff&bg_color=30,5611bd,11bdbd)](https://github.com/Inferno-idk-what-to-do)
