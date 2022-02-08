@@ -30,3 +30,5 @@ I very occasionally think and then dissociate until code appears
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Inferno-idk-what-to-do&show_icons=true&title_color=fff&text_color=fff&bg_color=30,5611bd,11bdbd)](https://github.com/Inferno-idk-what-to-do)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inferno-idk-what-to-do&title_color=fff&text_color=fff&bg_color=30,cc2b5e,753a88)](https://github.com/Inferno-idk-what-to-do)
