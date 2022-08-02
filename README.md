@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I very occasionally think and then dissociate until code appears
 
-- Pronouns -> he/him
+- Pronouns -> he/they
 - Reach me -> @Inferno#5457 (id 517699048489091083)
 
 ### **The truths of life**
